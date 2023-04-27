@@ -1,0 +1,1 @@
+This Workbook would help understand how Julia can be used for data science and machine learning applications. It is a high performance programming language and in my experience is as easy to use as Python and R for data science. 
